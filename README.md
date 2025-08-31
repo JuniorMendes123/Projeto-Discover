@@ -18,7 +18,7 @@ Programa exclusivo e gratuito, realizado por mim em processo de aprendizagem pel
 <br>
 
 <p align="center">
-  <img alt="calendario da copa" src=".github/preview.jpg" width="100%">
+  <img alt="Projeto DevLinks" src=".github/preview.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
